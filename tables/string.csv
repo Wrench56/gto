@@ -1,0 +1,6 @@
+Offset, Size (bytes), Description
+0x00    8,            Mesh Name Table Offset
+0x08,   8,            Material Name Table Offset
+0x10,   8,            Animation Name Table Offset
+0x18,   8,            Next Binary Table/Data Start
+
