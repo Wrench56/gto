@@ -1,5 +1,5 @@
 Offset, Size (bytes), Description
-0x00,   4,            Magic Number (`0x474F5446` = "GTOF")
+0x00,   4,            Magic Number (`0x474F5446` = GTOF)
 0x04,   4,            File Version (`0x00000001`)
 0x08,   8,            Total File Size (in bytes)
 0x10,   4,            SIMD Flags
