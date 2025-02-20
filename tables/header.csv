@@ -1,0 +1,16 @@
+Offset, Size (bytes), Description
+0x00,   4,            Magic Number (`0x474F5446` = "GTOF")
+0x04,   4,            File Version (`0x00000001`)
+0x08,   8,            Total File Size (in bytes)
+0x10,   4,            SIMD Flags
+0x14,   4,            Mesh Count
+0x18,   4,            Material Count
+0x1C,   4,            Texture Count
+0x20,   4,            Sampler Count
+0x24,   4,            Light Count
+0x28,   4,            Node Count
+0x2C,   4,            Animation Count
+0x30,   4,            Skin Count
+0x34,   4,            Morph Target Count
+0x38,   4,            Sparse Accessor Count
+
